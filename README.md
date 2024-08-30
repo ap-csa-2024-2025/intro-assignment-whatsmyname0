@@ -18,3 +18,4 @@ I have a lot of pets
 * Ask Mr. Vu anything:
 dogs or cats
 * List your sports and extracurriculars you participate in
+Red Cross, FRC, Engineering,...
