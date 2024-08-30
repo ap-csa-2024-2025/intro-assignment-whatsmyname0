@@ -14,5 +14,7 @@
 ## About Me
 Answer the questions below
 * Something interesting about me is
+I have a lot of pets
 * Ask Mr. Vu anything:
+dogs or cats
 * List your sports and extracurriculars you participate in
